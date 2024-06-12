@@ -1,0 +1,7 @@
+{
+    "sketch": "snake.ino",
+    "output": "build",
+    "port": "/dev/tty.usbserial-2130",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old"
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/samochreno/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/samochreno/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/eightanaloginputs"
+  },
+  {
+    "Sourcefile": "/Users/samochreno/repos/snake/build/sketch/snake.ino.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "/Users/samochreno/Documents/Arduino/libraries/LiquidCrystal_I2C"
+  },
+  {
+    "Sourcefile": "/Users/samochreno/repos/snake/build/sketch/snake.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/Users/samochreno/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/libraries/Wire/src"
+  },
+  {
+    "Sourcefile": "/Users/samochreno/repos/snake/build/sketch/snake.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/samochreno/repos/snake/build/sketch/game.cpp",
+    "Include": "ArrayList.h",
+    "Includepath": "/Users/samochreno/Documents/Arduino/libraries/ArrayList/src"
+  },
+  {
+    "Sourcefile": "/Users/samochreno/repos/snake/build/sketch/game.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/samochreno/repos/snake/build/sketch/indicator.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/samochreno/repos/snake/build/sketch/input.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/samochreno/repos/snake/build/sketch/lcd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/samochreno/Documents/Arduino/libraries/LiquidCrystal_I2C/LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/samochreno/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/libraries/Wire/src/Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/samochreno/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/libraries/Wire/src/utility/twi.c",
+    "Include": "",
+    "Includepath": null
+  }
+]
